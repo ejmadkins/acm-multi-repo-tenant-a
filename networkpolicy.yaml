@@ -1,7 +1,7 @@
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy
 metadata:
-  name: default-deny-ing
+  name: default-deny-ingress
 spec:
   ingress:
   - {}
