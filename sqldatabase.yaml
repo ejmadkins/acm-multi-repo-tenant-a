@@ -3,9 +3,9 @@
   metadata:
     labels:
       label-one: "value-one"
-    name: sqldatabase-preprod
+    name: tenant-a-sqldatabase-preprod
   spec:
     charset: utf8mb4
     collation: utf8mb4_bin
     instanceRef:
-      name: sqldatabase-dep
+      name: tenant-a-sqlinstance-preprod
