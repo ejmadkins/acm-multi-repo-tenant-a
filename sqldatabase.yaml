@@ -3,7 +3,7 @@
   metadata:
     labels:
       label-one: "value-one"
-    name: sqldatabase-preprod
+    name: sqldatabase-dev
   spec:
     charset: utf8mb4
     collation: utf8mb4_bin
