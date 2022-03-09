@@ -5,7 +5,7 @@
       cnrm.cloud.google.com/force-destroy: "false"
     labels:
       label-one: "value-one"
-    name: container-day-bucket0957
+    name: container-day-bucket2306
   spec:
     location: europe-west2
     lifecycleRule:
