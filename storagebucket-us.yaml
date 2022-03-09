@@ -7,7 +7,7 @@
       label-one: "value-one"
     name: container-day-bucket0957-us
   spec:
-    location: europe-west1
+    location: us-west1
     lifecycleRule:
       - action:
           type: Delete
