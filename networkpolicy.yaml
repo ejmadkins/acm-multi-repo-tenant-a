@@ -7,6 +7,6 @@ spec:
   ingress:
   - ports:
     - protocol: TCP
-      port: 6379
+      port: 80
   policyTypes:
   - Ingress
