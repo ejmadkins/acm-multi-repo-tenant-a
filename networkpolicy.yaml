@@ -5,6 +5,7 @@ metadata:
 spec:
   podSelector: {}
   ingress:
-  - {}
+  - ports:
+    - port: 80
   policyTypes:
   - Ingress
