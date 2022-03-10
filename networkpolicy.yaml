@@ -4,8 +4,6 @@ metadata:
   name: allow-web-ingress
 spec:
   podSelector: {}
-  ingress:
-  - ports:
-    - port: 8080
+  ingress: {}
   policyTypes:
   - Ingress
