@@ -3,6 +3,6 @@
   metadata:
     annotations:
       cnrm.cloud.google.com/force-destroy: "false"
-    name: cday-bucket2306
+    name: container-day-bucket2306
   spec:
     location: europe-west2
