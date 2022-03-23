@@ -1,6 +1,6 @@
   apiVersion: storage.cnrm.cloud.google.com/v1beta1
   kind: StorageBucket
   metadata:
-    name: container-day-bucket-west1
+    name: container-day-bucket-gl-west1
   spec:
     location: us-west1
