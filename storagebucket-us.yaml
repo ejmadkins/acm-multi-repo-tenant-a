@@ -3,4 +3,4 @@
   metadata:
     name: container-day-bucket-gh-west1
   spec:
-    location: us-west1
+    location: europe-west1
